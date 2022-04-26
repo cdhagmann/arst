@@ -1,5 +1,15 @@
 # Changelog
 
+### [0.10.1](https://www.github.com/cdhagmann/arst/compare/v0.10.0...v0.10.1) (2022-04-26)
+
+
+### Bug Fixes
+
+* don't invoke asdf inside asdf commands ([#1208](https://www.github.com/cdhagmann/arst/issues/1208)) ([27f7ef7](https://www.github.com/cdhagmann/arst/commit/27f7ef78529649534b8383daa58e4b370b3cbd7f))
+* fixing bats ([#1215](https://www.github.com/cdhagmann/arst/issues/1215)) ([a9caa5b](https://www.github.com/cdhagmann/arst/commit/a9caa5bdffca5401798fb37e6f34af933b6ce0d2))
+* make fish shell setup match other shells ([#1209](https://www.github.com/cdhagmann/arst/issues/1209)) ([6fc4bb8](https://www.github.com/cdhagmann/arst/commit/6fc4bb8fc650e73152ce326267f89df6865cdd24))
+* update elvish to 0.18.0 ([5a89563](https://www.github.com/cdhagmann/arst/commit/5a89563c0a37f244fa3daa46c5100b7711edde1d))
+
 ## [0.10.0](https://www.github.com/asdf-vm/asdf/compare/v0.9.0...v0.10.0) (2022-04-14)
 
 
